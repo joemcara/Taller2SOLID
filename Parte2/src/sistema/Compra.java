@@ -12,3 +12,10 @@ public class Compra{
     public Compra (Pago pago){
         //inicializaciones
     }
+    public void agregarArticulo(Articulo articulo){
+        //agregar un articulo a la compra
+    }
+
+    public void removerArticulo(Articulo articulo){
+        //remover un articulo
+    }
