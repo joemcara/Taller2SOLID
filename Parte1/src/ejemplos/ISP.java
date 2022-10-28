@@ -1,3 +1,5 @@
+package ejemplos;
+
 public class ISP {
     //INTERFACE SEGREGATION PRINCIPLE
     /* se crea una interfaz especifica para cada tipo de dispositivo inteligente 
