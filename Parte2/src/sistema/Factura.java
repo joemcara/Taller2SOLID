@@ -1,4 +1,4 @@
-
+package sistema;
 //Creamos factura para usos especificos
 public class Factura{
 

@@ -1,4 +1,7 @@
 package sistema;
+
+import java.util.List;
+
 /*
  * 4. Class Compra viola DIP -> porque tiene constructores para cada tipo de pago,
 dependiendo asi de las clases de tipo pago que se creen y no de una interfaz que
@@ -19,3 +22,4 @@ public class Compra{
     public void removerArticulo(Articulo articulo){
         //remover un articulo
     }
+}
